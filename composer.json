@@ -38,7 +38,7 @@
         }
     },
     "require": {
-        "php": "^7.2",
+        "php": ">=7.2",
         "babenkoivan/elastic-adapter": "^1.11.0"
     },
     "require-dev": {
